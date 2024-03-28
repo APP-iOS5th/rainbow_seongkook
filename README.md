@@ -4,5 +4,5 @@
 
 ```js
 * git push
-    *gitgitgit
+    * gitgitgit
 ```
